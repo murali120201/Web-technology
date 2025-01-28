@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Homework 1</title>
+        <style>
+            body{
+                background-color: lightgoldenrodyellow;
+                color: black;
+                font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+            }
+            </style>
+    </head>
+    <body>
+        <h1>Homework 1</h1>
+        <p>My name is <strong>Bala Murali Madineni</strong> and this is my second semester at <strong>NAU</strong>.</p>
+        <p> I did my Homework!</p> 
+
+        <img src="Lab 1.jpg">
+    </body>
+</html>
